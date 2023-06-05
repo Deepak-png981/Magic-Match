@@ -14,7 +14,7 @@ This is a README file for a React application. It provides an overview of the pr
 
 Magic Match is a memory game. It is a simple yet very interesting game specially created for kids to increase their retention rate along with the fun. What you need to do is find a match of the flipped card .
 <br>
-[Live Demo](https://magics-match.netlify.app/)
+[Live Demo](https://magicdeepakjoshi.netlify.app/)
 
 ## Features
 
