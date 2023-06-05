@@ -12,7 +12,7 @@ This is a README file for a React application. It provides an overview of the pr
 
 ## Introduction
 
-Magic Match is a memory game. The game is very simple: you can flip two cards, and if they match, they are still flipped, and if they don't match, they turn back. On the bottom of the screen, there is a turn counter that shows how many turns the user took to complete the game. And finally, there is the "New Game" button, which resets the current game.
+Magic Match is a memory game. It is a simple yet very interesting game specially created for kids to increase their retention rate along with the fun. What you need to do is find a match of the flipped card .
 <br>
 [Live Demo](https://magics-match.netlify.app/)
 
